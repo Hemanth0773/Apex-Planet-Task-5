@@ -22,14 +22,6 @@ It allows users to browse products across categories, add them to a cart, and pl
 
 ---
 
-## 📂 Project Structure
-index.html # Main HTML file
-style.css # Stylesheet
-script.js # JavaScript functionality
-
-
----
-
 ## ⚡ Performance Optimization
 - Minified CSS and JS
 - Lazy loading enabled for images
